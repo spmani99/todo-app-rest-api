@@ -5,6 +5,6 @@
 <body>
 	<div>Welcome to in28minutes</div>
 	<div>Your Name: ${name}</div>
-	<div>Your Name: ${password}</div>
+	<div><a href="todo-list">Manage</a></div>
 </body>
 </html>
