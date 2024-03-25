@@ -1,8 +1,5 @@
-<html>
-<head>
-<title>Login Page</title>
-</head>
-<body>
+<%@ include file="common/header.jspf" %>
+<%@ include file="common/navigation.jspf" %>
 	Welcome to the login page!
 
 	<form method="post">
